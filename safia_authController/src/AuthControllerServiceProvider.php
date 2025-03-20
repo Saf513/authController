@@ -1,6 +1,5 @@
 <?php
-
-namespace Safia\Authcontroller;
+namespace Safia\AuthController;
 
 use Illuminate\Support\ServiceProvider;
 use Safia\Authcontroller\Commands\MakeAuthControllerCommand;
