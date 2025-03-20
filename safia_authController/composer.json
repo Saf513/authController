@@ -1,0 +1,19 @@
+{
+    "name": "safia/authcontroller",
+    "description": "creation de auth controller avec les methodes d authentification",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Safia\\Authcontroller\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "safia-khoulaid",
+            "email": "safiakhoulaid11@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
